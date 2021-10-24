@@ -1,3 +1,8 @@
+# Welcome To My Github
+* Hi I am 0xAtomix and this is my github
+
+## About Me:
+
 ```c++
 class Atomix{
 public:
@@ -18,3 +23,6 @@ public:
 };
 
 ```
+
+## Stats:
+[![0xAtomix Github Stats](https://github-readme-stats.vercel.app/api?username=0xAtomix&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
